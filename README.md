@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## desciption
+
+Just a simple project to teaching mySelf how to linking React to node it s actually hleped me !
+
+## Usage
+
+actually you need to run the backend index on a localPort eg 3001 and then try to send api s ;
+Also you need setup an dummy mongo database
+
+
 ## Available Scripts
 
 In the project directory, you can run:
